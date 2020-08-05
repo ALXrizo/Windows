@@ -1,0 +1,13 @@
+##### Activacion de windows 7 ######
+
+*Desintalar actualizacion KB971033
+
+*Abrir Simbolo de Sistema Como Administrador
+
+*Slmgr- dli
+
+*Slmgr -upk
+
+*Slmgr -rearm
+
+*Slmgr -ipk FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
