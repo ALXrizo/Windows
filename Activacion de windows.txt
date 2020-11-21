@@ -1,0 +1,29 @@
+Debemos abrir sibolo de sistema como administrador
+poner uno por uno los siguentes comandos dando enter
+al final de cada uno.
+Cambiar las "X" por el serial segun su version de windows
+
+slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+slmgr /skms kms.msguides.com ó slmgr /skms kms.digiboy.ir
+slmgr /ato
+///////en caso de error///////////7
+slmgr /upk
+slmgr /cpky
+slmgr /dli
+
+
+
+/////////////SERIALES////////////////////////////////////
+Windows 8.1 single lenguaje: Y9NXP-XT8MV-PT9TG-97CT3-9D6TC
+Windows 8.1 Core: 334NH-RXG76-64THK-C7CKG-D3VPT             
+Windows 8.1 Pro: XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
+Windows 8.1 Pro with Media Center: RR3BN-3YY9P-9D7FC-7J4YF-QGJXW
+
+
+
+Windows 10 Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Windows 10 Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Windows 10 Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Windows 10 Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Windows 10 Pro: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows 10 Pro N: MH37W-N47XK-V7XM9-C7227-GCQG9
